@@ -32,7 +32,7 @@ class App extends Component {
         return (
             <Fragment>
                 <Header />
-                <div className="d-flex align-items-center justify-content-center" style={{ height: "70vh" }}>
+                <div className="d-flex align-items-center justify-content-center" style={{ height: "75vh" }}>
                     <button type="button" className="btn btn-danger" onClick={this.function}>დააკლიკე</button>
                 </div>
                 <Footer />
